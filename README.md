@@ -25,6 +25,6 @@ cd EEESlab/APAI22-LAB02-PULP_Embedded_Programming/
 ```
 ### How to run the code
 to run the code enter in a terminal 
-'''make clean all run'''
+`make clean all run`
 
-DO NOT FORGET: on every new terminal you open, you must do 'source /pulp/sourceme.sh'. Then you can do 'make clean all run`
+DO NOT FORGET: on every new terminal you open, you must do `source /pulp/sourceme.sh` once. Then you can do `make clean all run`
