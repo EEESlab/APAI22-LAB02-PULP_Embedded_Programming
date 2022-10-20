@@ -4,7 +4,7 @@
 The target device for the lab sessions is the multi-core [PULP](https://github.com/pulp-platform/pulp) platform. 
 The PULP Virtual Platform simulator GVSOC, which is included within the [PULP SDK](https://github.com/pulp-platform/pulp-sdk), will be used during the class. 
 
-- **Subject(s)**: PULP architecture, vector sum, matrix-vector mul, profiling code execution;
+- **Subject(s)**: hello-world, vector sum, matrix-vector mul, profiling code execution;
 - **Programming Language**: C;
 - **Lab duration**: 3h 
 - **Objective**: Embedded programming & profiling. You will learn basics of embedded programming, the pulp architecture, basic operations (sum & matmul), and how to profile your code execution (MAC, cycles) !
